@@ -1,0 +1,42 @@
+/*html, body {
+    overflow: auto;
+}
+
+#root{
+  height: 100vh;
+}
+
+.table {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+
+#board {
+  width: 80%;
+  height: 60vh;
+  margin: 0 auto;
+  padding-top: 2%;
+}
+
+.cellB{
+  width: 11%;
+  height: 18%;
+  background-color: #6b6a6a;
+  display: inline-block;
+  border-style: ridge;
+  vertical-align: top;
+}
+.cellW{
+  width: 11%;
+  height: 18%;
+  background-color: white;
+  display: inline-block;
+  border-style: ridge;
+  vertical-align: top;
+}
+
+img {
+  margin: 0 auto;
+  padding-left:  10px;
+}*/
